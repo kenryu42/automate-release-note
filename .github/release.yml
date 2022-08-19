@@ -3,7 +3,7 @@ changelog:
         - title: Breaking Changes
           labels:
               - breaking-change
-        - title: Exciting New Features :tada\:
+        - title: Exciting New Features :tada:/
           labels:
               - enhancement
         - title: Bug fixes
@@ -11,4 +11,4 @@ changelog:
               - bug
         - title: Other
           labels:
-              - '*'
+              - "*"
