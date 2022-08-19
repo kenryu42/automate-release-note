@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/kenryu42/automate-release-note/compare/v0.2.0...v0.3.0) (2022-08-19)
+
+
+### Features
+
+* add new feature ([2c38ed4](https://github.com/kenryu42/automate-release-note/commit/2c38ed47d3d948af308954385df9e5ac11ebf993))
+
+
+
 # [0.2.0](https://github.com/kenryu42/automate-release-note/compare/v0.1.1...v0.2.0) (2022-08-19)
 
 
