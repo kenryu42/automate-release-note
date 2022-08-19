@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/kenryu42/automate-release-note/compare/v0.3.0...v0.3.1) (2022-08-19)
+
+
+### Bug Fixes
+
+* **index.js:** fixed bug ([e9e68f9](https://github.com/kenryu42/automate-release-note/commit/e9e68f9b5dd40e49475cde97dfc953c55a6434d1))
+
+
+
 # [0.3.0](https://github.com/kenryu42/automate-release-note/compare/v0.2.0...v0.3.0) (2022-08-19)
 
 
